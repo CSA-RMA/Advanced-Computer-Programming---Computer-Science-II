@@ -1,0 +1,8 @@
+Fast Sword
+15
+Heavy Sword
+25
+Heavy Mace
+30
+Fast Mace
+10

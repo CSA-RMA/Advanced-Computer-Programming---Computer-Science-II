@@ -1,0 +1,12 @@
+king	JOHN	12/MAR/2017 09:30 - 15/MAR/2017 09:30
+queen
+single
+double
+double
+single
+king
+single
+queen
+double
+queen
+king
